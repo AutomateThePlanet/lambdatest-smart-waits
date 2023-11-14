@@ -1,1 +1,1 @@
-# lambdatest-smart-waits
+# lambdatest-auto-healing
